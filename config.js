@@ -9,7 +9,7 @@ let Styles = {
   },
   headerProps: {
     icon: 'https://zincgroupdevelopment.com/wp-content/uploads/2020/06/Zinc-Group-Ltd-Logo-P2935.png',
-    title: 'Chat with us',
+    title: 'Chat with ZAC',
     backgroundColor: '#234165',
     logoProps: {
       width: '40px',
