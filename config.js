@@ -8,8 +8,8 @@ let Styles = {
     }
   },
   headerProps: {
-    icon: 'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1472067271/kj1yfx4ut8k9gznsz0v8.png',
-    title: 'Chat with us',
+    icon: 'https://zincgroupdevelopment.com/wp-content/uploads/2020/06/Zinc-Group-Ltd-Logo-P2935.png',
+    title: 'Chat with ZAC',
     backgroundColor: '#234165',
     logoProps: {
       width: '40px',
