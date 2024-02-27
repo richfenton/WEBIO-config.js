@@ -80,8 +80,8 @@ let Styles = {
   openButtonProps: {
     buttonImage: 'https://zincgroupdevelopment.com/wp-content/uploads/2024/02/chat-icon2.png',
     buttonProps: {
-      width: '50px',
-      height: '50px',
+      width: '100px',
+      height: '100px',
       borderSize: '3px',
       borderColor: '#124867',
       textColor: '#fff',
