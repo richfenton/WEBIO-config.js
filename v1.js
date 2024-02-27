@@ -78,7 +78,7 @@ let Styles = {
     }
   },
   openButtonProps: {
-    buttonImage: 'https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1472067271/kj1yfx4ut8k9gznsz0v8.png',
+    buttonImage: 'https://zincgroupdevelopment.com/wp-content/uploads/2024/02/chat-icon2.png',
     buttonProps: {
       width: '50px',
       height: '50px',
