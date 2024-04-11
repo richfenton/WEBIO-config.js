@@ -78,10 +78,10 @@ let Styles = {
     }
   },
   openButtonProps: {
-    buttonImage: 'https://zincgroupdevelopment.com/wp-content/uploads/2024/04/Chat-Button.png',
+    buttonImage: 'https://zincgroupdevelopment.com/wp-content/uploads/2024/04/Chat-Button-Two.png',
     buttonProps: {
-      width: '70px',
-      height: '70px',
+      width: '75px',
+      height: '75px',
       borderSize: '3px',
       borderColor: '#124867',
       textColor: '#fff',
