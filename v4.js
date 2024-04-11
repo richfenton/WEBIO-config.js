@@ -78,7 +78,7 @@ let Styles = {
     }
   },
   openButtonProps: {
-    buttonImage: 'https://zincgroupdevelopment.com/wp-content/uploads/2024/04/Zinc-Group-1.png',
+    buttonImage: 'https://zincgroupdevelopment.com/wp-content/uploads/2024/04/Chat-Button.png',
     buttonProps: {
       width: '50px',
       height: '50px',
