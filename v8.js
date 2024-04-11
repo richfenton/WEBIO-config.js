@@ -88,8 +88,8 @@ let Styles = {
       backgroundColor: '#124867',
     },
     buttonImageProps: {
-      width: '40px',
-      heigth: '40px',
+      width: '75px',
+      heigth: '75px',
     }
   }
 };
